@@ -1,5 +1,5 @@
 # Data Analysis for Disaster Mitigation in Australia 
-## (Drought - Fire)
+# (Drought / Rain / Fire)
 
 Please find the results here: 
 
