@@ -1,4 +1,4 @@
-# Data_Analysis_for_Disaster_Mitigation_in_Australia
+# Data Analysis for Disaster Mitigation in Australia
 
 Please find the results here: 
 
