@@ -1,5 +1,9 @@
 # Data_Analysis_for_Disaster_Mitigation_in_Australia
 
+Please find the results here: 
+
+https://docs.google.com/presentation/d/1batbCkVbhj-jlbZusftEJlaCyMZV3OKqPwo2XqPVta8/edit?usp=sharing
+
 Target:
 
 - Prediction 1: Will there be rain tomorrow? (Binary Classification/Binary Clustering)
