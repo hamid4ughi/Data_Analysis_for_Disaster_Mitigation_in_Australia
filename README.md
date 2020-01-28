@@ -1,12 +1,15 @@
 # Data Analysis for Disaster Mitigation in Australia 
 # (Drought / Rain / Fire)
 
-![Output sample](https://github.com/hamid4ughi/Data_Analysis_for_Disaster_Mitigation_in_Australia/blob/master/Result_1.png)
+
 ## Results:
 Please find the results here: 
 
 https://docs.google.com/presentation/d/1batbCkVbhj-jlbZusftEJlaCyMZV3OKqPwo2XqPVta8/edit?usp=sharing
 
+![Output sample](https://github.com/hamid4ughi/Data_Analysis_for_Disaster_Mitigation_in_Australia/blob/master/Result_1.png)
+![Output sample](https://github.com/hamid4ughi/Data_Analysis_for_Disaster_Mitigation_in_Australia/blob/master/Result_2.png)
+![Output sample](https://github.com/hamid4ughi/Data_Analysis_for_Disaster_Mitigation_in_Australia/blob/master/Result_3.png)
 ## Target:
 
 - Prediction 1: Will there be rain tomorrow? (Binary Classification/Binary Clustering)
