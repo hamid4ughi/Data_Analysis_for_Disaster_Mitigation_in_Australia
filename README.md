@@ -25,6 +25,7 @@ source: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 source: https://www.abcb.gov.au/Resources/Tools-Calculators/Climate-Zone-Map-Australia-Wide
 
 -------------------------------------------------------------------------------------------
+# Data Analysis Procedure
 ## Missing data imputation
 
 Little’s test in R (I could not find anything in Python!) – identification of (MCAR/MCR/MCNR).
