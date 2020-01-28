@@ -1,6 +1,7 @@
 # Data Analysis for Disaster Mitigation in Australia 
 # (Drought / Rain / Fire)
 
+![Output sample](https://github.com/hamid4ughi/Data_Analysis_for_Disaster_Mitigation_in_Australia/blob/master/Result_1.png)
 ## Results:
 Please find the results here: 
 
